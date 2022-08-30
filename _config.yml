@@ -47,10 +47,10 @@ author_project_details:
     project_description: A Pacman clone for a virtual Thumby
     project_url: https://senor16.itch.io/thuc-man
     visibility: true
-  - project_thumbnail: avgame.gif
-    project_title: AV Game
-    project_description: A top down adventure game made with Pico 8
-    project_url: https://senor16.itch.io/avgame
+  - project_thumbnail: Sep._2018_Watercolor_Ink_Markers_Untitled.png
+    project_title: Lost In A Deep Dream
+    project_description: A 2D Shooter game made with Solar 2d
+    project_url: https://senor16.itch.io/lost-in-a-deep-dream
     visibility: true
 
 # social links
