@@ -1,10 +1,8 @@
 title: Sesso Kosga
 subtitle: I'm a game and web developer, Open Source enthusiast
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, My name is Sesso Kosga. Istarted programming when
- I was 13 and never stopped. I've made mobile apps,
- websites, 
-PC softwares and video games. I acquired a solid set of skills that enable me to be a polyvalent developer, able to adapt to any given situation.
+  Hi, My name is Sesso Kosga. Istarted programming when I was 13 and never stopped. I've made mobile apps,
+ websites, PC softwares and video games. I acquired a solid set of skills that enable me to be a polyvalent developer, able to adapt to any given situation.
 
 url: "https://senor16.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
