@@ -12,6 +12,8 @@ urls:
     url: /
   - text: Portfolio
     url: https://senor16.itch.io
+  - text: Blog
+    url: https://medium.com/@sessokosga    
   - text: About
     url: /about
   - text: Contact
@@ -21,7 +23,7 @@ urls:
 
 author_logo: profile.png
 author: Sesso Kosga
-author_bio: Hi, My name is Sesso Kosga. Istarted programming when I was 13 and never stopped. I've made mobile apps, websites, PC softwares and video games. I acquired a solid set of skills that enable me to be a polyvalent developer, able to adapt to any given situation.
+author_bio: Hi, My name is Sesso Kosga. I started programming when I was 13 and never stopped. I've made mobile apps, websites, PC softwares and video games. I acquired a solid set of skills that enable me to be a polyvalent developer, able to adapt to any given situation.
 author_email: "kosgasesso@gmail.com"
 author_location: Cameroon
 author_website_url: "senor16.github.io"
