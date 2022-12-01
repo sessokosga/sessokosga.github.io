@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
   - text: Home
     url: /
-  - text: Blog
+  - text: Posts
     url: https://medium.com/@sessokosga
   - text: Portfolio
     url: https://senor16.itch.io
