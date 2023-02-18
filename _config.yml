@@ -13,7 +13,7 @@ urls:
 
 
   - text: Portfolio
-    url: https://senor16.itch.io
+    url: https://sessokosga.itch.io
   - text: About
     url: /about
   - text: Contact
@@ -26,7 +26,7 @@ author: Sesso Kosga
 author_bio: Hi, My name is Sesso Kosga. I started programming when I was 13 and never stopped. I've made mobile apps, websites, PC softwares and video games. I acquired a solid set of skills that enable me to be a polyvalent developer, able to adapt to any given situation.
 author_email: "kosgasesso@gmail.com"
 author_location: Cameroon
-author_website_url: "senor16.github.io"
+author_website_url: "sessokosga.github.io"
 typewrite-text: I'm a game and web developer, Open Source enthusiast
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
@@ -47,12 +47,12 @@ author_project_details:
   - project_thumbnail: thucman.gif
     project_title: Thuc-Man
     project_description: A Pacman clone for a virtual Thumby
-    project_url: https://senor16.itch.io/thuc-man
+    project_url: https://sessokosga.itch.io/thuc-man
     visibility: true
   - project_thumbnail: Sep._2018_Watercolor_Ink_Markers_Untitled.png
     project_title: Lost In A Deep Dream
     project_description: A 2D Shooter game made with Solar 2d
-    project_url: https://senor16.itch.io/lost-in-a-deep-dream
+    project_url: https://sessokosga.itch.io/lost-in-a-deep-dream
     visibility: true
 
 # social links
